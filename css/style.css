@@ -581,6 +581,18 @@ textarea {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 55px;
+    padding: 0 100px;
 }
 
+.benefits_card {
+    grid-column: span 1;
+}
+
+.benefits_card_pic {
+    margin-bottom: 37px;
+}
+
+.benefits_cards_thumb {
+    display: block;
+}
 /*benefits styles end*/
