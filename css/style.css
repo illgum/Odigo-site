@@ -1112,6 +1112,6 @@ img {
 .footer_menu_link:hover,
 .footer_menu_link:focus,
 .footer_menu_link:active {
-  opacity: 0.75%;
+  opacity: 0.75;
 }
 /*Footer styles end*/
